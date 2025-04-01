@@ -6,7 +6,7 @@ The purpose of the TMF is to be modular, so that I can attach it to any effect p
 
 # [The Schematic](https://github.com/TudorSupica/TMF/blob/main/schematic/TMF.pdf)
 
-![TMF_Schematic](https://github.com/user-attachments/assets/e463a493-cecf-4a01-919c-8c5612154258)
+![TMF_Schematic](https://github.com/TudorSupica/TMF/blob/main/schematic/TMF_Schematic.JPG)
 
 The schematic is rather simple.
 
@@ -15,7 +15,7 @@ It consists of only a few parts: the footswitch, four resistors (R1 and R2 form 
 I removed the "anti-stupid" protection diode since the power for the board is supplied via a 4-pin JST connector that can't be plugged backwards, thus no need for the diode.
 
 # [The PCB](https://github.com/TudorSupica/TMF/tree/main/PCB)
-![3D-isometric](https://github.com/user-attachments/assets/f4155b56-73d0-42c7-9d3d-c72b8ad6e72f)
+![3D-isometric](https://github.com/TudorSupica/TMF/blob/main/PCB/photos/3D/3D-isometric.JPG)
 
 The PCB design was done such that when i order from JLC-PCB I can get as many boards as cheap as possible (turbo capitalism type shi).
 
