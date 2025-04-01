@@ -6,7 +6,7 @@ The purpose of the TMF is to be modular, so that I can attach it to any effect p
 
 # [The Schematic](https://github.com/TudorSupica/TMF/blob/main/schematic/TMF.pdf)
 
-![TMF_Schematic](https://github.com/TudorSupica/TMF/blob/main/schematic/TMF_Schematic.JPG)
+![TMF_Schematic](https://github.com/TudorSupica/TMF/blob/main/Schematic/TMF_Schematic.JPG)
 
 The schematic is rather simple.
 
